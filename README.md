@@ -1,9 +1,9 @@
-# Enumerable
+
 <a name="readme-top"></a>
 
 # 📗 Table of Contents
 
-- [Harshad Number](#Harshad Number)
+- [4_Four_Rings](#4 Four Rings)
 - [📗 Table of Contents](#-table-of-contents)
 - [🎯 Create own Enumerable](#-create-own-enumerable)
   - [🛠 Built With ](#-built-with-)
@@ -25,7 +25,7 @@
 <!-- PROJECT DESCRIPTION -->
 
 # <a name="about-project"></a>
-This is a ruby program allows a user to enter an integer and tells them if it is a Harshad number or not.
+This is a ruby program  that generates and counts the possible ring combinations.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
